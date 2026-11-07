@@ -1,0 +1,18 @@
+{
+  "version": "1.0.2",
+  "version_code": 2,
+  "title": "NextChat v1.0.2 - Gran Actualización",
+  "release_date": "04 Noviembre 2026",
+  "release_time": "19:00 UTC",
+  "distributor": "GitHub Releases (github.com/NextChat/NextChat)",
+  "download_url": "https://github.com/NextChat/NextChat/releases/download/v1.0.2/nextchat-v1.0.2.apk",
+  "size": "28.4 MB",
+  "is_mandatory": false,
+  "changelog": [
+    "Nueva interfaz transparente y estética Glassmorphism",
+    "Botón flotante de nueva conversación estilo WhatsApp",
+    "Nuevo sistema de actualización integrado con GitHub",
+    "Descarga directa de APKs sin abrir el navegador",
+    "Optimización de fluidez y estabilidad general"
+  ]
+}
